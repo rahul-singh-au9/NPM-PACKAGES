@@ -1,0 +1,15 @@
+{
+  "name": "testing_random_no_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random_num_generator_js": "^1.0.2"
+  }
+}

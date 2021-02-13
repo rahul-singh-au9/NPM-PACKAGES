@@ -1,0 +1,13 @@
+{
+  "name": "random_num_generator_js",
+  "version": "1.0.2",
+  "description": "Random Number Generator",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rahul singh",
+  "license": "MIT"
+}
